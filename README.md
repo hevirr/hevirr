@@ -1,7 +1,7 @@
 Name: Lobanov Anton  
 Area of interest: front-end web development  
-Skills: HTML5, CSS3, Sass/Scss, Javascript (ES2015/ES6 +), jQuerry, ReactJS, Typescript
-Currently learning: Redux
+Skills: HTML5, CSS3, Sass/Scss, Javascript (ES2015/ES6 +), jQuerry, ReactJS, Typescript  
+Currently learning: Redux  
 ---------------------------------------------------------------------------
 
 Имя: Лобанов Антон  
